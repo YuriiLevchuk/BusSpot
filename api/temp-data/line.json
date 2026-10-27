@@ -1,0 +1,275 @@
+{
+	"day": "2026-10-11T22:00:00.000Z",
+	"direction": null,
+	"lineID": "eb91280c-2671-437c-9b3b-730595a84336",
+	"locationID": "644ca8a3-304d-407c-a8a5-b2cbaa9384db",
+	"runStopsVariants": [
+		{
+			"qtyOfRuns": 39,
+			"runStops": [
+				{
+					"distance": null,
+					"extraInfo": null,
+					"locationID": "e2ee869a-4ba0-4c0f-8ab6-76ff513dc139",
+					"stopOrder": null,
+					"time": null
+				},
+				{
+					"distance": 216,
+					"extraInfo": null,
+					"locationID": "a09278a8-6dd8-400d-b967-4705d1908a67",
+					"stopOrder": 1,
+					"time": 60
+				},
+				{
+					"distance": 622,
+					"extraInfo": null,
+					"locationID": "42b1a262-6ee3-4ef1-9394-659e9d51bee5",
+					"stopOrder": 2,
+					"time": 60
+				},
+				{
+					"distance": 358,
+					"extraInfo": null,
+					"locationID": "9d54634f-2a3f-4430-bace-4e9f9d5ec04e",
+					"stopOrder": 3,
+					"time": 60
+				},
+				{
+					"distance": 390,
+					"extraInfo": null,
+					"locationID": "7e5310a1-3f16-40b5-9d58-688a5a158d1c",
+					"stopOrder": 4,
+					"time": 120
+				},
+				{
+					"distance": 451,
+					"extraInfo": null,
+					"locationID": "9b40c2c1-d83d-4170-8c25-862594109eba",
+					"stopOrder": 5,
+					"time": 60
+				},
+				{
+					"distance": 474,
+					"extraInfo": null,
+					"locationID": "29900996-7715-4326-bcbf-4e0089b632ae",
+					"stopOrder": 6,
+					"time": 120
+				},
+				{
+					"distance": 455,
+					"extraInfo": null,
+					"locationID": "5a415634-a97c-4d41-a710-1045f0cc63e8",
+					"stopOrder": 7,
+					"time": 120
+				},
+				{
+					"distance": 623,
+					"extraInfo": null,
+					"locationID": "7d5024e2-08da-4314-aa12-46decfe655d0",
+					"stopOrder": 8,
+					"time": 120
+				},
+				{
+					"distance": 450,
+					"extraInfo": null,
+					"locationID": "718b57b7-4443-4df0-a6ca-a5f2729238e9",
+					"stopOrder": 9,
+					"time": 60
+				},
+				{
+					"distance": 273,
+					"extraInfo": null,
+					"locationID": "f22bad8f-374f-443b-8663-edcb5a93d15e",
+					"stopOrder": 10,
+					"time": 60
+				},
+				{
+					"distance": 482,
+					"extraInfo": null,
+					"locationID": "428651b0-43b9-495e-a5e7-a9b5d22656e0",
+					"stopOrder": 11,
+					"time": 120
+				},
+				{
+					"distance": 1095,
+					"extraInfo": null,
+					"locationID": "d4188b43-3280-4acf-9c35-e90def8830df",
+					"stopOrder": 12,
+					"time": 120
+				},
+				{
+					"distance": 582,
+					"extraInfo": null,
+					"locationID": "f1f72f47-5180-4fbb-a9f5-2b8a4723b71b",
+					"stopOrder": 13,
+					"time": 60
+				},
+				{
+					"distance": 477,
+					"extraInfo": null,
+					"locationID": "0fbb4646-f523-45cf-bb35-43b09d40a490",
+					"stopOrder": 14,
+					"time": 60
+				},
+				{
+					"distance": 346,
+					"extraInfo": null,
+					"locationID": "8d02a299-959a-4816-977f-b21e0f8c12b4",
+					"stopOrder": 15,
+					"time": 60
+				},
+				{
+					"distance": 247,
+					"extraInfo": null,
+					"locationID": "01e15ca5-a3c3-40f3-98dd-ecffd14515a7",
+					"stopOrder": 16,
+					"time": 120
+				},
+				{
+					"distance": 309,
+					"extraInfo": null,
+					"locationID": "9ba06825-4b21-4efd-960d-d8e8352ae250",
+					"stopOrder": 17,
+					"time": 60
+				},
+				{
+					"distance": 650,
+					"extraInfo": null,
+					"locationID": "d61c8783-8997-4d77-b193-3f0af85b70c9",
+					"stopOrder": 18,
+					"time": 60
+				},
+				{
+					"distance": 462,
+					"extraInfo": null,
+					"locationID": "83287d29-cc7e-4b00-8e3d-88ab863b7a53",
+					"stopOrder": 19,
+					"time": 60
+				},
+				{
+					"distance": 1114,
+					"extraInfo": null,
+					"locationID": "644ca8a3-304d-407c-a8a5-b2cbaa9384db",
+					"stopOrder": 20,
+					"time": 180
+				}
+			]
+		},
+		{
+			"qtyOfRuns": 2,
+			"runStops": [
+				{
+					"distance": null,
+					"extraInfo": null,
+					"locationID": "fee0a2fa-4421-4468-9320-e7c6aef7eec1",
+					"stopOrder": null,
+					"time": null
+				},
+				{
+					"distance": 109,
+					"extraInfo": null,
+					"locationID": "0fbb4646-f523-45cf-bb35-43b09d40a490",
+					"stopOrder": 1,
+					"time": 60
+				},
+				{
+					"distance": 346,
+					"extraInfo": null,
+					"locationID": "8d02a299-959a-4816-977f-b21e0f8c12b4",
+					"stopOrder": 2,
+					"time": 60
+				},
+				{
+					"distance": 247,
+					"extraInfo": null,
+					"locationID": "01e15ca5-a3c3-40f3-98dd-ecffd14515a7",
+					"stopOrder": 3,
+					"time": 120
+				},
+				{
+					"distance": 309,
+					"extraInfo": null,
+					"locationID": "9ba06825-4b21-4efd-960d-d8e8352ae250",
+					"stopOrder": 4,
+					"time": 60
+				},
+				{
+					"distance": 650,
+					"extraInfo": null,
+					"locationID": "d61c8783-8997-4d77-b193-3f0af85b70c9",
+					"stopOrder": 5,
+					"time": 60
+				},
+				{
+					"distance": 462,
+					"extraInfo": null,
+					"locationID": "83287d29-cc7e-4b00-8e3d-88ab863b7a53",
+					"stopOrder": 6,
+					"time": 60
+				},
+				{
+					"distance": 1114,
+					"extraInfo": null,
+					"locationID": "644ca8a3-304d-407c-a8a5-b2cbaa9384db",
+					"stopOrder": 7,
+					"time": 180
+				}
+			]
+		},
+		{
+			"qtyOfRuns": 1,
+			"runStops": [
+				{
+					"distance": null,
+					"extraInfo": null,
+					"locationID": "0fbb4646-f523-45cf-bb35-43b09d40a490",
+					"stopOrder": 14,
+					"time": null
+				},
+				{
+					"distance": 346,
+					"extraInfo": null,
+					"locationID": "8d02a299-959a-4816-977f-b21e0f8c12b4",
+					"stopOrder": 15,
+					"time": 60
+				},
+				{
+					"distance": 247,
+					"extraInfo": null,
+					"locationID": "01e15ca5-a3c3-40f3-98dd-ecffd14515a7",
+					"stopOrder": 16,
+					"time": 120
+				},
+				{
+					"distance": 309,
+					"extraInfo": null,
+					"locationID": "9ba06825-4b21-4efd-960d-d8e8352ae250",
+					"stopOrder": 17,
+					"time": 60
+				},
+				{
+					"distance": 650,
+					"extraInfo": null,
+					"locationID": "d61c8783-8997-4d77-b193-3f0af85b70c9",
+					"stopOrder": 18,
+					"time": 60
+				},
+				{
+					"distance": 462,
+					"extraInfo": null,
+					"locationID": "83287d29-cc7e-4b00-8e3d-88ab863b7a53",
+					"stopOrder": 19,
+					"time": 60
+				},
+				{
+					"distance": 1114,
+					"extraInfo": null,
+					"locationID": "644ca8a3-304d-407c-a8a5-b2cbaa9384db",
+					"stopOrder": 20,
+					"time": 180
+				}
+			]
+		}
+	]
+}
